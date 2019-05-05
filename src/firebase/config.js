@@ -1,13 +1,7 @@
 import firebase from "firebase";
 
 const config={
-    apiKey: "AIzaSyChbxb5WZr2eCHDktcWO_aKhGU4mdPG0vM",
-    authDomain: "myimagesapp.firebaseapp.com",
-    databaseURL: "https://myimagesapp.firebaseio.com",
-    projectId: "myimagesapp",
-    storageBucket: "myimagesapp.appspot.com",
-    messagingSenderId: "33802700506",
-    appId: "1:33802700506:web:3e77b262d49fef98"
+    //Paste your firebase app config here
 }
 
 export const firebaseui={

@@ -5,6 +5,10 @@
 ### Wanting to contribute :smiley
 
 ```
+HeadOver to https://console.firebase.google.com and create a project
+```
+
+```
 clone https://github.com/CryceTruly/trulyImages.git
 ```
 
