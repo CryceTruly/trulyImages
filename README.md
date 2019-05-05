@@ -15,6 +15,3 @@ npm start
 
 ### Author
 CryceTruly
-
-
-# trulyImages
